@@ -7,10 +7,10 @@ ruby '2.6.5'
 
 gem 'bcrypt'
 gem 'bootstrap-sass'
-gem 'faker',          '2.1.2'
-gem 'rails-controller-testing'
-gem 'will_paginate',           '3.1.8'
 gem 'bootstrap-will_paginate', '1.0.0'
+gem 'faker', '2.1.2'
+gem 'rails-controller-testing'
+gem 'will_paginate', '3.1.8'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.1'
